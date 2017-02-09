@@ -1,0 +1,6 @@
+.*.swp
+workspace
+virtualenv
+*.pyc
+MANIFEST
+dist

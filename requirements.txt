@@ -1,0 +1,6 @@
+hy==0.12.1
+vobject==0.9.4.1
+packaging==16.8
+requests==2.13.0
+pyasn1==0.2.2
+pyOpenSSL==16.2.0
